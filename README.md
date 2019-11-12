@@ -8,8 +8,8 @@ If you want to contribute to this list, please feel free to send a pull request.
 
 ## To whom it may be useful?
 This repository gathers some awesome writing examples for  the researchers and engineers who want to write a demo or industry track paper for their open-source AI projects, including but not limited to, ML/DL framework, Explainable AI(XAI), AutoML, Reinforcement Learning(RL). The resources are categorized into ML/DL engine, XAI, AutoML and RL these four types and taged into two types: Algorithm & Framework, and Platform & System.
- * Algorithm & Framework:  ??
- * Platform & System: ??
+ * Algorithm & Framework:  🚀
+ * Platform & System: 💻
 
 
 ## Table of Contents
@@ -37,20 +37,22 @@ This repository gathers some awesome writing examples for  the researchers and e
 ## ML/DL Engine
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
 
-### * Caffe* 
+### *Caffe* 🚀
   * Caffe: Convolutional Architecture for Fast Feature Embedding [[paper](https://arxiv.org/abs/1408.5093)] [[code](https://github.com/BVLC/caffe)].
 
-### * Tensorflow* 
+### *Tensorflow* 🚀
   * TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems [[paper](https://arxiv.org/abs/1603.04467)] [[code](https://github.com/tensorflow/tensorflow)].
 
-### * MXNet* 
+### *MXNet* 🚀
   * MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems[[paper](https://arxiv.org/abs/1512.01274)] [[code](https://github.com/apache/incubator-mxnet)].
 
-### * Theano* 
+### *Theano* 🚀
   * Theano: A Python framework for fast computation of mathematical expressions[[paper](https://arxiv.org/abs/1605.02688)] [[code](https://github.com/Theano/Theano)].
 
-### * Scikit-learn* 
-  * Scikit-learn: Machine Learning in Python[[paper](https://arxiv.org/abs/1605.02688)] [[code](https://github.com/Theano/Theano)].
+### *Scikit-learn* 🚀
+  * Scikit-learn: Machine Learning in Python[[paper](https://arxiv.org/abs/1201.0490)] [[code](https://github.com/scikit-learn/scikit-learn)].
+  
+ 
 
 ## AutoML
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).

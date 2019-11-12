@@ -7,7 +7,7 @@ If you want to contribute to this list, please feel free to send a pull request.
 
 
 ## To whom it may be useful?
-This repository gathers some awesome writing examples for  the researchers and engineers who want to write a demo or industry track paper for their open-source AI projects, including but not limited to, ML/DL framework, Explainable AI(XAI), AutoML, Reinforcement Learning(RL). The resources are categorized into ML/DL engine, XAI, AutoML and RL these four types and taged into two types: Algorithm & Framework, and Platform & System.
+This repository gathers some awesome writing examples for  the researchers and engineers who want to write a demo or industry track paper for their open-source AI projects, including but not limited to, ML/DL framework, Explainable AI(XAI), AutoML, Reinforcement Learning(RL). The resources are categorized into ML/DL engine, XAI, AutoML and RL these four types and taged into two types: Algorithm & Framework, or Platform & System.
  * Algorithm & Framework:  🚀
  * Platform & System: 💻
 

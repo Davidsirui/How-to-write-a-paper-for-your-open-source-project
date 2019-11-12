@@ -105,4 +105,7 @@ RL part consists of famous and active reinforcement learning(RL) algorithm tools
 * [Tianqi Chen](https://tqchen.com/)
 * [Yangqing Jia](http://daggerfs.com/)
 
+### *Useful handbooks and tips*
+* [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/abs/1309.0238)
+
 

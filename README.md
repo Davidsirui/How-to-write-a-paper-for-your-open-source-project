@@ -100,12 +100,12 @@ RL part consists of famous and active reinforcement learning(RL) algorithm tools
 ### *Famous labs, teams and individuals*
 * [Texas A&M DATA Lab](http://faculty.cs.tamu.edu/xiahu/)
 * [Freiburg-Hannover AutoML Lab](https://www.automl.org/)
-* [UC Berkeley RISELab](https://rise.cs.berkeley.edu/)
+* [UC Berkeley RISE Lab](https://rise.cs.berkeley.edu/)
 * [Google Keras Team](https://github.com/keras-team)
 * [Tianqi Chen](https://tqchen.com/)
 * [Yangqing Jia](http://daggerfs.com/)
 
 ### *Useful handbooks and tips*
 * [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/abs/1309.0238)
-
+* [Should I write a paper on open-source software I've built?](https://academia.stackexchange.com/questions/19855/should-i-write-a-paper-on-open-source-software-ive-built)
 

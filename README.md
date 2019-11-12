@@ -14,12 +14,12 @@ This repository gathers some awesome writing examples for  the researchers and e
 
 ## Table of Contents
 
-* [ML](#ML)
+* [ML and DL](#ML and DL)
 * [AutoML](#AutoML)
 * [XAI](#XAI)
 * [RL](#RL)
 
-## ML
+## ML and DL
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
 
 ### *Caffe* 🚀

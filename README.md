@@ -18,7 +18,7 @@ This repository gathers some awesome writing examples for  the researchers and e
 * [AutoML](#AutoML)
 * [XAI](#XAI)
 * [RL](#RL)
-* [Famous lab and team](#Famous lab and team)
+* [Lab&team](#Lab&team)
 
 ## Engine
 Engine part consists of some main stream computational frameworks for machine learning and deep learning applications. We didn't include the framework without a paper e.g. Keras, PyTorch though they are very excellent libraries, because this repo mainly focuses on the writing and literacy of an open-source library and project.
@@ -71,5 +71,5 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 * Neural Replicator Dynamics, arXiv 2019 [[paper](https://arxiv.org/abs/1906.00190)].
 
-## Famous lab and team
+## Lab&team
 

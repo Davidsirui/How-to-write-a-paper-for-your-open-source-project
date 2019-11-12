@@ -1,7 +1,7 @@
 # Awesome-Examples of how to write a good paper for an AI open-source project
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated, but incomplete, list of game AI resources on **multi-agent** learning.
+A curated, but incomplete, list of excellent writing samples on **open-source** AI project.
 
 If you want to contribute to this list, please feel free to send a pull request. Also you can contact [sirui_ding@outlook.com](mailto:sirui_ding@outlook.com).
 
@@ -45,7 +45,7 @@ Engine part consists of some main stream computational frameworks for machine le
   * LightGBM: A Highly Efficient Gradient Boosting Decision Tree[[paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)] [[code](https://github.com/microsoft/LightGBM)].
   
 ### *Ray* 🚀
-  * BOHB: Robust and Efficient Hyperparameter Optimization at Scale[[paper](https://ml.informatik.uni-freiburg.de/papers/18-ICML-BOHB.pdf)] [[code](https://github.com/automl/HpBandSter)].
+  * Ray: A Distributed Framework for Emerging AI Applications[[paper](https://arxiv.org/abs/1712.05889)] [[code](https://github.com/ray-project/ray)].
 
 
 

@@ -43,11 +43,14 @@ Engine part consists of some main stream computational frameworks for machine le
   
 ### *LightGBM* 🚀
   * LightGBM: A Highly Efficient Gradient Boosting Decision Tree[[paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)] [[code](https://github.com/microsoft/LightGBM)].
+  
+### *Ray* 🚀
+  * BOHB: Robust and Efficient Hyperparameter Optimization at Scale[[paper](https://ml.informatik.uni-freiburg.de/papers/18-ICML-BOHB.pdf)] [[code](https://github.com/automl/HpBandSter)].
 
 
 
 ## AutoML
-AutoML part consists of 
+AutoML part consists of famous and active automated machine learning and neural architecture search open-source project.
 
 ### *Auto-Keras* 💻
 * Auto-Keras: An Efficient Neural Architecture Search System[[paper](http://delivery.acm.org/10.1145/3340000/3330648/p1946-jin.pdf?ip=203.205.141.43&id=3330648&acc=OPENTOC&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1573543788_96264faeb8afbfe17a8ea3a47ecfdfb1)] [[code](https://github.com/keras-team/autokeras)].
@@ -64,15 +67,11 @@ AutoML part consists of
  ### *Auto-PyTorch* 💻
   * Efficient and Robust Automated Machine Learning[[paper](https://ml.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf)] [[code](https://github.com/automl/Auto-PyTorch)].
   
+ ### *Tune* 💻
+  * Tune: A Research Platform for Distributed Model Selection and Training[[paper](https://arxiv.org/abs/1807.05118)] [[code](https://github.com/ray-project/ray/tree/master/python/ray/tune)].
+  
  ### *BOHB* 🚀
   * BOHB: Robust and Efficient Hyperparameter Optimization at Scale[[paper](https://ml.informatik.uni-freiburg.de/papers/18-ICML-BOHB.pdf)] [[code](https://github.com/automl/HpBandSter)].
-  
- ### *HyperBand* 🚀
-  * Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization[[paper](http://jmlr.org/papers/volume18/16-558/16-558.pdf)] [[code](https://github.com/automl/HpBandSter)].
-  
- 
- 
- 
  
 
 
@@ -83,8 +82,18 @@ XAI part consists of famous and active explainable AI tools, algorithm and platf
 ## RL
 RL part consists of famous and active reinforcement learning(RL) algorithm tools, platform and system.
 
-### *TorchBeast*
-* Neural Replicator Dynamics, arXiv 2019 [[paper](https://arxiv.org/abs/1906.00190)].
+### *TorchBeast* 💻
+* TorchBeast: A PyTorch Platform for Distributed RL [[paper](https://arxiv.org/abs/1910.03552)] [[code](https://github.com/facebookresearch/torchbeast)].
+
+### *RLlib* 💻
+* RLlib: Abstractions for Distributed Reinforcement Learning [[paper](https://arxiv.org/abs/1712.09381)] [[code](https://github.com/ray-project/ray/tree/master/rllib)].
+
+### *RLcard* 💻
+* RLCard: A Toolkit for Reinforcement Learning in Card Games [[paper](https://arxiv.org/abs/1910.04376)] [[code](https://github.com/datamllab/rlcard)].
+
+### *Tensorlayer* 💻
+* TensorLayer: A Versatile Library for Efficient Deep Learning Development [[paper](https://arxiv.org/abs/1707.08551)] [[code](https://github.com/tensorlayer/tensorlayer)].
+
 
 ## Miscellaneous
 

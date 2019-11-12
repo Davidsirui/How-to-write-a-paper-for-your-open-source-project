@@ -99,5 +99,7 @@ RL part consists of famous and active reinforcement learning(RL) algorithm tools
 
 ### *Famous labs, teams and individuals*
 * [Texas A&M DATA Lab](http://faculty.cs.tamu.edu/xiahu/)
+* [Freiburg-Hannover AutoML Lab](https://www.automl.org/)
+* [UC Berkeley RISELab](https://rise.cs.berkeley.edu/)
 
 

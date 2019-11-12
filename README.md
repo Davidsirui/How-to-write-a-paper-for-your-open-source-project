@@ -57,11 +57,19 @@ Betting games are one of the most popular form of Poker games. The list includes
   * Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms[[paper](https://arxiv.org/abs/1208.3719)] [[code](https://github.com/automl/autoweka)].
   
 ### *Auto-WEKA 2.0* 💻
-  * Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms[[paper](https://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf)] [[code](https://github.com/automl/autoweka)].
+  * Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA[[paper](https://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf)] [[code](https://github.com/automl/autoweka)].
   
  ### *Auto-Sklearn* 💻
   * Efficient and Robust Automated Machine Learning[[paper](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)] [[code](https://github.com/automl/auto-sklearn)].
-
+  
+ ### *BOHB* 🚀
+  * BOHB: Robust and Efficient Hyperparameter Optimization at Scale[[paper](https://ml.informatik.uni-freiburg.de/papers/18-ICML-BOHB.pdf)] [[code](https://github.com/automl/HpBandSter)].
+  
+ ### *HyperBand* 🚀
+  * Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization[[paper](http://jmlr.org/papers/volume18/16-558/16-558.pdf)] [[code](https://github.com/automl/HpBandSter)].
+ 
+ 
+ 
 
 
 ## XAI

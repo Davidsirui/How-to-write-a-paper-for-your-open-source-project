@@ -98,5 +98,6 @@ RL part consists of famous and active reinforcement learning(RL) algorithm tools
 ## Miscellaneous
 
 ### *Famous labs, teams and individuals*
+* [Texas A&M DATA Lab](http://faculty.cs.tamu.edu/xiahu/)
 
 

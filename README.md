@@ -102,7 +102,7 @@ RL part consists of famous and active reinforcement learning(RL) algorithm tools
 * [Freiburg-Hannover AutoML Lab](https://www.automl.org/)
 * [UC Berkeley RISELab](https://rise.cs.berkeley.edu/)
 * [Google Keras Team](https://github.com/keras-team)
-* [Tainqi Chen](https://tqchen.com/)
+* [Tianqi Chen](https://tqchen.com/)
 * [Yangqing Jia](http://daggerfs.com/)
 
 

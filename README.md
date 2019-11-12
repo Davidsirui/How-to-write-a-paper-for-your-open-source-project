@@ -61,12 +61,17 @@ Betting games are one of the most popular form of Poker games. The list includes
   
  ### *Auto-Sklearn* 💻
   * Efficient and Robust Automated Machine Learning[[paper](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)] [[code](https://github.com/automl/auto-sklearn)].
+ 
+ ### *Auto-PyTorch* 💻
+  * Efficient and Robust Automated Machine Learning[[paper](https://ml.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf)] [[code](https://github.com/automl/Auto-PyTorch)].
   
  ### *BOHB* 🚀
   * BOHB: Robust and Efficient Hyperparameter Optimization at Scale[[paper](https://ml.informatik.uni-freiburg.de/papers/18-ICML-BOHB.pdf)] [[code](https://github.com/automl/HpBandSter)].
   
  ### *HyperBand* 🚀
   * Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization[[paper](http://jmlr.org/papers/volume18/16-558/16-558.pdf)] [[code](https://github.com/automl/HpBandSter)].
+  
+ 
  
  
  

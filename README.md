@@ -50,11 +50,17 @@ Engine part consists of some main stream computational frameworks for machine le
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
 ###* AutoKeras*
 
-### *AutoKeras* 💻
-* LightGBM: A Highly Efficient Gradient Boosting Decision Tree[[paper](http://delivery.acm.org/10.1145/3340000/3330648/p1946-jin.pdf?ip=203.205.141.43&id=3330648&acc=OPENTOC&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1573543788_96264faeb8afbfe17a8ea3a47ecfdfb1)] [[code](https://github.com/keras-team/autokeras)].
+### *Auto-Keras* 💻
+* Auto-Keras: An Efficient Neural Architecture Search System[[paper](http://delivery.acm.org/10.1145/3340000/3330648/p1946-jin.pdf?ip=203.205.141.43&id=3330648&acc=OPENTOC&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1573543788_96264faeb8afbfe17a8ea3a47ecfdfb1)] [[code](https://github.com/keras-team/autokeras)].
 
 ### *Auto-WEKA* 💻
-  * LightGBM: A Highly Efficient Gradient Boosting Decision Tree[[paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)] [[code](https://github.com/microsoft/LightGBM)].
+  * Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms[[paper](https://arxiv.org/abs/1208.3719)] [[code](https://github.com/automl/autoweka)].
+  
+### *Auto-WEKA 2.0* 💻
+  * Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms[[paper](https://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf)] [[code](https://github.com/automl/autoweka)].
+  
+ ### *Auto-Sklearn* 💻
+  * Efficient and Robust Automated Machine Learning[[paper](https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf)] [[code](https://github.com/automl/auto-sklearn)].
 
 
 

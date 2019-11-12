@@ -14,18 +14,10 @@ This repository gathers some awesome writing examples for  the researchers and e
 
 ## Table of Contents
 
-* [Caffe](#Caffe)
-* [Review and General Papers](#review-and-general-papers)
-* [Research Papers](#research-papers)
-  * [Betting Games](#betting-games)
-  * [Dou Dizhu](#dou-dizhu)
-  * [Mahjong](#mahjong)
-  * [Bridge](#bridge)
-  * [Go](#go)
-  * [Starcraft](#starcraft)
-* [Conferences and Workshops](#conferences-and-workshops)
-* [Competitions](#competitions)
-* [Related Lists](#related-lists)
+* [ML/DL Engine](#ML/DL Engine)
+* [AutoML](#AutoML)
+* [XAI](#XAI)
+* [RL](#RL)
 
 ## ML/DL Engine
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
@@ -35,7 +27,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 
 ### *Tensorflow* 🚀
   * TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems [[paper](https://arxiv.org/abs/1603.04467)] [[code](https://github.com/tensorflow/tensorflow)].
-
+  
 ### *MXNet* 🚀
   * MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems[[paper](https://arxiv.org/abs/1512.01274)] [[code](https://github.com/apache/incubator-mxnet)].
 
@@ -45,7 +37,13 @@ Betting games are one of the most popular form of Poker games. The list includes
 ### *Scikit-learn* 🚀
   * Scikit-learn: Machine Learning in Python[[paper](https://arxiv.org/abs/1201.0490)] [[code](https://github.com/scikit-learn/scikit-learn)].
   
- 
+### *XGBoost* 🚀
+  * XGBoost: A Scalable Tree Boosting System[[paper](https://arxiv.org/abs/1603.02754)] [[code](https://github.com/dmlc/xgboost)].
+  
+### *LightGBM* 🚀
+  * LightGBM: A Highly Efficient Gradient Boosting Decision Tree[[paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)] [[code](https://github.com/microsoft/LightGBM)].
+
+
 
 ## AutoML
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).

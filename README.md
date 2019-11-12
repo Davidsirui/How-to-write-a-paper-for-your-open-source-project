@@ -14,13 +14,13 @@ This repository gathers some awesome writing examples for  the researchers and e
 
 ## Table of Contents
 
-* [ML and DL](#ML and DL)
+* [Engine](#Engine)
 * [AutoML](#AutoML)
 * [XAI](#XAI)
 * [RL](#RL)
 
-## ML and DL
-Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
+## Engine
+Engine part consists of some main stream computational framework for machine learning and deep learning applications. We didn't include the framework without a paper e.g. Keras, PyTorch though they are very excellent library because this repo mainly focus on the writing and literacy of an open-source library and project.
 
 ### *Caffe* 🚀
   * Caffe: Convolutional Architecture for Fast Feature Embedding [[paper](https://arxiv.org/abs/1408.5093)] [[code](https://github.com/BVLC/caffe)].

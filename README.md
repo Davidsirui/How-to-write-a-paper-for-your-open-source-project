@@ -14,14 +14,7 @@ This repository gathers some awesome writing examples for  the researchers and e
 
 ## Table of Contents
 
-* [Open-Source Projects](#open-source-projects)
-  * [Unified Toolkits](#unified-toolkits)
-  * [Texas Hold'em](#texas-holdem-projects)
-  * [Dou Dizhu](#dou-dizhu-projects)
-  * [Starcraft](#starcraft-projects)
-  * [Gomoku](#gomoku-projects)
-  * [Chess](#chess-projects)
-  * [Chinese Chess](#chinese-chess-projects)
+* [ML/DL Engine](#ML/DL Engine)
 * [Review and General Papers](#review-and-general-papers)
 * [Research Papers](#research-papers)
   * [Betting Games](#betting-games)
@@ -75,7 +68,7 @@ Betting games are one of the most popular form of Poker games. The list includes
 ## RL
 Betting games are one of the most popular form of Poker games. The list includes [Goofspiel](https://en.wikipedia.org/wiki/Goofspiel), [Kuhn Poker](https://en.wikipedia.org/wiki/Kuhn_poker), [Leduc Poker](http://poker.cs.ualberta.ca/publications/UAI05.pdf), and [Texas Hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em).
 
-###* TorchBeast*
+### *TorchBeast*
 
 * Neural Replicator Dynamics, arXiv 2019 [[paper](https://arxiv.org/abs/1906.00190)].
 

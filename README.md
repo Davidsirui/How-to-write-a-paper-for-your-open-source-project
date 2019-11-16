@@ -46,6 +46,9 @@ Engine part consists of some main stream computational frameworks for machine le
   
 ### *Ray* 🚀
   * Ray: A Distributed Framework for Emerging AI Applications[[paper](https://arxiv.org/abs/1712.05889)] [[code](https://github.com/ray-project/ray)].
+  
+### *mlpack* 
+  * mlpack3: A fast, flexible machine learning library[[paper](http://www.mlpack.org/files/mlpack3.pdf)] [[code](https://github.com/mlpack/mlpack/)].
 
 
 

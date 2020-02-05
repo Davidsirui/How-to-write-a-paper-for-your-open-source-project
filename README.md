@@ -81,6 +81,9 @@ AutoML part consists of famous and active automated machine learning and neural 
 ## XAI
 XAI part consists of famous and active explainable AI tools, algorithm and platform.
 
+### *secml* 💻
+  * secml: A Python Library for Secure and Explainable Machine Learning[[paper](https://arxiv.org/pdf/1912.10013.pdf)] [[code]( https://gitlab.com/secml/secml)].
+ 
 
 ## RL
 RL part consists of famous and active reinforcement learning(RL) algorithm tools, platform and system.
